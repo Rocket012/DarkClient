@@ -1,7 +1,7 @@
 # DarkClient
 ## Tutorial
 
- 1. Lade den Client herunter: [Download Link]([https://github.com/Rocket012/DarkClient/releases/download/v1.0.0/DarkClient-1.20.1.zip])
+ 1. Lade den Client herunter: [Download Link](https://github.com/Rocket012/DarkClient/releases/download/v1.0.0/DarkClient-1.20.1.zip)
  2. Wenn du denn Client heruntergeladen hast dann gehe in deinen Downloads Ordner und mach rechtsklick auf **DarkClient-1.20.1.zip**![rechtsklick auf datei](https://cdn.discordapp.com/attachments/1096487014142050455/1147942616390963300/Downloads_03.09.2023_19_12_31.png), das müsste dann so aussehen.
  3. Dann klicke auf **Alle extrahieren**.
  4. Klicke dann auf **DarkClient-1.20.1**, dann müsste es so aussehen.![Nachdem man auf DarkClient-1.20.1 gedrückt hat](https://cdn.discordapp.com/attachments/1096487014142050455/1147943787478396928/Downloads_03.09.2023_19_17_03.png)
