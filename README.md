@@ -1,7 +1,7 @@
 # DarkClient
 ## Installer
 
-- [Minecraft-Client-Profil-Creater](https://mega.nz/file/6dZ0URTC#IbvKjmby4uYeP9qIrws4GsbTk8kYSunm6hq6nq7XS0o)
+- [Minecraft-DarkClient-Installer]([https://mega.nz/file/6dZ0URTC#IbvKjmby4uYeP9qIrws4GsbTk8kYSunm6hq6nq7XS0o](https://github.com/Rocket012/DarkClient/releases/download/installer(v.1.0.0)/DarkClient-Installer.exe))
 ## Tutorial
 
  1. Lade den Client herunter: [Download Link](https://github.com/Rocket012/DarkClient/releases/download/v0.2.0-alpha/DarkClient-1.20.1.v.0.2.0.zip)
