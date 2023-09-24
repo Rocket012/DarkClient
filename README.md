@@ -6,7 +6,9 @@
 ## Pictures
 
 ## Tutorial
-### test
+
+### Manual Download
+
  1. Lade den Client herunter: [Download Link](https://github.com/Rocket012/DarkClient/releases/download/v0.2.0-alpha/DarkClient-1.20.1.v.0.2.0.zip)
  2. Wenn du denn Client heruntergeladen hast dann gehe in deinen Downloads Ordner und mach rechtsklick auf **DarkClient-1.20.1.zip**![rechtsklick auf datei](https://cdn.discordapp.com/attachments/1096487014142050455/1147942616390963300/Downloads_03.09.2023_19_12_31.png), das müsste dann so aussehen.
  3. Dann klicke auf **Alle extrahieren**.
