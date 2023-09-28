@@ -1,7 +1,7 @@
 # DarkClient
 ## Installer
 
-- [Minecraft-DarkClient-Installer herunterladen](https://github.com/Rocket012/DarkClient/releases/download/installer(v.2.0.0)/DarkClient-Installer.exe)
+- [Minecraft-DarkClient-Installer herunterladen](https://github.com/Rocket012/DarkClient/releases/download/installer(v.2.0.1)/DarkClient-Installer.exe)
 
 ## Pictures
 
